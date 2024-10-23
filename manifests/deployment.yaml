@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: y-6563a38c-618f-48c0-ab15-46221fdfac9f-container
-          image: pipejet/lyna-y:0
+          image: pipejet/lyna-y:1
           ports:
             - containerPort: 3000
